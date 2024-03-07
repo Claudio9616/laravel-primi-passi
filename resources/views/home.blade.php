@@ -11,6 +11,7 @@
    <h1>CIAO benvenuto</h1>
     <a href='{{route('prova1')}}'>vai alla prova 1</a>
     <a href='{{route('prova2')}}'>vai alla prova 2</a>
+
 </body>
 
 </html>
